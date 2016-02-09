@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <album lgPath="images/ss/md/" tnPath="images/ss/md/" title="Home" description="Home Slideshow">
+
+		<img src="100_2445.jpg" link="javascript:createLightbox('images/ss/lg/100_2445.jpg','#080061 - 1999 Acura Integra 112,000 miles');" caption="#080061 - 1999 Acura Integra 112,000 miles"/>
+		<img src="100_2446.jpg" link="javascript:createLightbox('images/ss/lg/100_2446.jpg','#080061 - 1999 Acura Integra 112,000 miles');" caption="#080061 - 1999 Acura Integra 112,000 miles"/>
+		<img src="100_2447.jpg" link="javascript:createLightbox('images/ss/lg/100_2447.jpg','#080061 - 1999 Acura Integra 112,000 miles');" caption="#080061 - 1999 Acura Integra 112,000 miles"/>
+		
+		<img src="100_2450.jpg" link="javascript:createLightbox('images/ss/lg/100_2450.jpg','#080062 - 1995 Lexus ES300 121,000 miles');" caption="#080062 - 1995 Lexus ES300 121,000 miles"/>
+		<img src="100_2449.jpg" link="javascript:createLightbox('images/ss/lg/100_2449.jpg','#080062 - 1995 Lexus ES300 121,000 miles');" caption="#080062 - 1995 Lexus ES300 121,000 miles"/>
+		<img src="100_2448.jpg" link="javascript:createLightbox('images/ss/lg/100_2448.jpg','#080062 - 1995 Lexus ES300 121,000 miles');" caption="#080062 - 1995 Lexus ES300 121,000 miles"/>	
+		
+		<img src="100_2444.jpg" link="javascript:createLightbox('images/ss/lg/100_2444.jpg','#080063 - 2003 Mazda 6 81,000 miles');" caption="#080063 - 2003 Mazda 6 81,000 miles"/>		
+		<img src="100_2443.jpg" link="javascript:createLightbox('images/ss/lg/100_2443.jpg','#080063 - 2003 Mazda 6 81,000 miles');" caption="#080063 - 2003 Mazda 6 81,000 miles"/>
+		
+		<img src="100_2481.jpg" link="javascript:createLightbox('images/ss/lg/100_2481.jpg','#080066 - 2002 Honda Odyssey 112,000 miles');" caption="#080066 - 2002 Honda Odyssey 112,000 miles"/>
+		<img src="100_2482.jpg" link="javascript:createLightbox('images/ss/lg/100_2482.jpg','#080066 - 2002 Honda Odyssey 112,000 miles');" caption="#080066 - 2002 Honda Odyssey 112,000 miles"/>
+		
+		<img src="100_2483.jpg" link="javascript:createLightbox('images/ss/lg/100_2483.jpg','#080065 - 2003 Honda Civic 90,000 miles');" caption="#080065 - 2003 Honda Civic 90,000 miles"/>
+		<img src="100_2484.jpg" link="javascript:createLightbox('images/ss/lg/100_2484.jpg','#080065 - 2003 Honda Civic 90,000 miles');" caption="#080065 - 2003 Honda Civic 90,000 miles"/>
+		<img src="100_2485.jpg" link="javascript:createLightbox('images/ss/lg/100_2485.jpg','#080065 - 2003 Honda Civic 90,000 miles');" caption="#080065 - 2003 Honda Civic 90,000 miles"/>
+
+		<img src="100_2395.jpg" link="javascript:createLightbox('images/ss/lg/100_2395.jpg','Stock #: 080056 - 1998 Acura Integra LS Coupe - 84k');" caption="Stock #: 080047 - 1999 Acura CL 3.0 143,000 Miles"/>
+		<img src="100_2396.jpg" link="javascript:createLightbox('images/ss/lg/100_2396.jpg','Stock #: 080056 - 1998 Acura Integra LS Coupe - 84k');" caption="Stock #: 080047 - 1999 Acura CL 3.0 143,000 Miles"/>
+					
+		
+		<img src="100_2393.jpg" link="javascript:createLightbox('images/ss/lg/100_2393.jpg','Stock #: 080057 - 1999 Honda Accord Coupe - 161k');" caption="Stock #: 080057 - 1999 Honda Accord Coupe - 161k"/>
+		<img src="100_2394.jpg" link="javascript:createLightbox('images/ss/lg/100_2394.jpg','Stock #: 080057 - 1999 Honda Accord Coupe - 161k');" caption="Stock #: 080057 - 1999 Honda Accord Coupe - 161k"/>
+		
+
+		<img src="080041-01.jpg" link="javascript:createLightbox('images/ss/lg/080041-01.jpg','Stock #: 080041 - 1998 Toyota 4 Runner Limited 189,000 Miles');" caption="Stock #: 080041 - 1998 Toyota 4 Runner Limited 189,000 Miles"/>
+		<img src="080041-02.jpg" link="javascript:createLightbox('images/ss/lg/080041-02.jpg','Stock #: 080041 - 1998 Toyota 4 Runner Limited 189,000 Miles');" caption="Stock #: 080041 - 1998 Toyota 4 Runner Limited 189,000 Miles"/>
+		
+		<img src="080046-01.jpg" link="javascript:createLightbox('images/ss/lg/080046-01.jpg','Stock #: 080046 - 2001 Acura MDX 131,000 Miles');" caption="Stock #: 080046 - 2001 Acura MDX 131,000 Miles"/>
+		<img src="080046-02.jpg" link="javascript:createLightbox('images/ss/lg/080046-02.jpg','Stock #: 080046 - 2001 Acura MDX 131,000 Miles');" caption="Stock #: 080046 - 2001 Acura MDX 131,000 Miles"/>
+		
+		<img src="080053-01.jpg" link="javascript:createLightbox('images/ss/lg/080053-01.jpg','Stock #: 080053 - 2003 Accord Coupe Silver - 49k');" caption="Stock #: 080053 - 2003 Accord Coupe Silver - 49k"/>
+		<img src="080053-02.jpg" link="javascript:createLightbox('images/ss/lg/080053-02.jpg','Stock #: 080053 - 2003 Accord Coupe Silver - 49k');" caption="Stock #: 080053 - 2003 Accord Coupe Silver - 49k"/>
+
+    </album>
+</gallery>

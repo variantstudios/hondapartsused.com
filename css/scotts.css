@@ -1,0 +1,225 @@
+@charset "utf-8";
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #212121;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #303030;
+	padding: 0;
+	margin-top: 10px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+.oneColFixCtrHdr #container {
+	width: 775px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #FFFFFF;
+	text-align: left;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.oneColFixCtrHdr #header {
+	margin: 0px;
+	background-image: url(../images/layout/scotts_header-bg.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+
+}
+.oneColFixCtrHdr #nav {
+	margin: 0px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.oneColFixCtrHdr #header h2 {
+	font-size: 1.3em;
+	color: #ff6600;
+	padding-top: 120px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 250px;
+	text-align: right;
+	margin: 0px;
+}
+
+
+.oneColFixCtrHdr #header h1 {
+	background-image:url(../images/scottsAutoLogo.jpg);
+	width: 282px;
+	background-repeat: no-repeat;
+	height: 154px;
+	float: left;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+
+.oneColFixCtrHdr #mainContent {
+	float: left; /* since this element is floated, a width must be given */
+	width: 385px;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	font-size: 0.8em;
+}
+.oneColFixCtrHdr #sidebar {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-size: 0.8em;
+}
+
+.oneColFixCtrHdr #sidebarservices {
+	background-image:url(../images/Lift02.jpg);
+	background-repeat: no-repeat;
+	margin: 0 20px 0 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-size: 0.8em;
+	float: right;
+}
+
+
+
+.oneColFixCtrHdr #footer {
+	margin: 0px; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+	font-size: .70em;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+
+
+/* BOTTOM PHOTOS */
+#bottomphotos ul {
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 40px;
+	margin: 0px;
+}
+ 
+#bottomphotos li {
+	list-style-type:none;
+	font-size:.6em;
+	display: inline;
+	text-align: center;
+}
+
+
+#bottomphotos li a {
+	background-image:url(../images/layout/bottomphotos.jpg);
+	background-repeat:no-repeat;
+	padding-top: 60px;
+	padding-right: 50px;
+	padding-bottom: 0px;
+	padding-left: 75px;
+
+}
+
+
+#bottomphotos li a.showroom {background-position:0px 0px;}
+.oneColFixCtrHdr #mainContentlg {
+	font-size: .8em;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+
+#bottomphotos  li a:hover.showroom {background-position:0px -75px;}
+
+#bottomphotos  li a.tranny {background-position:0px -150px;}
+#bottomphotos  li a:hover.tranny {background-position:0px -225px;}
+
+#bottomphotos  li a.acc {background-position:0px -300px;}
+#bottomphotos  li a:hover.acc {background-position:0px -375px;}
+
+#bottomphotos  li a.engine {background-position:0px -450px;}
+#bottomphotos  li a:hover.engine {background-position:0px -525px;}
+
+#bottomphotos  li a.yard {background-position:0px -600px;}
+#bottomphotos  li a:hover.yard {background-position:0px -675px;}
+
+
+/* TOP BARS */
+#tpblue {
+	background-color: #660099;
+	height: 38px;
+	width: 100%;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	font-size: .8em;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+
+#tpblue li {
+	list-style-type:none;
+	display: inline;
+
+}
+#tpblue li {
+	text-align: center;
+}
+
+#tpblue li a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 1.1em;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+#tpblue li a:hover {
+	color: #ff6600;
+}
+
+
+
+
+#tporg {background-color: #fdd02c; height: 10px; width: 100%; padding: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 1px; margin-left: 0px;}
+
+
+/* BOTTOM BARS */
+#btblue {background-color: #660099; margin: 0px; padding: 0px; height: 20px; width: 100%;}
+#btorg {background-color: #fdd02c; height: 5px; width: 100%; padding: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 1px; margin-left: 0px;}
+
+/* EXTRAS TOOLS */
+.hidden {
+    left: -10000px; position: absolute
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+.red {color: #FF0000;}
