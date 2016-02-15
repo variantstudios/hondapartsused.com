@@ -2,36 +2,29 @@
 <gallery>
     <album lgPath="images/ss/lg/" tnPath="images/ss/md/" title="Home" description="Home Slideshow">
 
-		<img src="Picture3.jpg" link="javascript:createLightbox('images/ss/lg/Picture3.jpg','Facility Tour 1');" caption="Scott's Auto Inc."/>
-		<img src="Picture297.jpg" link="javascript:createLightbox('images/ss/lg/Picture297.jpg','Facility Tour 2');" caption="Scott's Auto Inc."/>
-		<!--<img src="Picture298.jpg" link="javascript:createLightbox('images/ss/lg/Picture298.jpg','Facility Tour 3');" caption="Scott's Auto Inc."/>-->
-		
-		<img src="Picture302.jpg" link="javascript:createLightbox('images/ss/lg/Picture302.jpg','Facility Tour 3');" caption="Scott's Auto Inc."/>
-		<img src="Picture304.jpg" link="javascript:createLightbox('images/ss/lg/Picture304.jpg','Facility Tour 4');" caption="Scott's Auto Inc."/>
-		<!--<img src="Picture305.jpg" link="javascript:createLightbox('images/ss/lg/Picture305.jpg','Facility Tour 6');" caption="Scott's Auto Inc."/>-->	
-		
-		<img src="Picture306.jpg" link="javascript:createLightbox('images/ss/lg/Picture306.jpg','Facility Tour 5');" caption="Scott's Auto Inc."/>		
-		<img src="Picture307.jpg" link="javascript:createLightbox('images/ss/lg/Picture307.jpg','Facility Tour 6');" caption="Scott's Auto Inc."/>
-		
-		<!--<img src="Picture308.jpg" link="javascript:createLightbox('images/ss/lg/Picture308.jpg','Facility Tour 9');" caption="Scott's Auto Inc."/>-->
-		<img src="Picture309.jpg" link="javascript:createLightbox('images/ss/lg/Picture309.jpg','Facility Tour 7');" caption="Scott's Auto Inc."/>
-		
-		<img src="Picture313.jpg" link="javascript:createLightbox('images/ss/lg/Picture313.jpg','Facility Tour 8');" caption="Scott's Auto Inc."/>
-		<img src="Picture314.jpg" link="javascript:createLightbox('images/ss/lg/Picture314.jpg','Facility Tour 9');" caption="Scott's Auto Inc."/>
-		<img src="Picture320.jpg" link="javascript:createLightbox('images/ss/lg/Picture320.jpg','Facility Tour 10');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0948.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0948.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0949.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0949.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0951.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0951.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0952.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0952.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0953.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0953.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
 
-		<img src="Picture323.jpg" link="javascript:createLightbox('images/ss/lg/Picture323.jpg','Facility Tour 11');" caption="Scott's Auto Inc."/>
-		<!--<img src="Picture324.jpg" link="javascript:createLightbox('images/ss/lg/Picture324.jpg','Facility Tour 15');" caption="Scott's Auto Inc."/>-->
-		
+		<img src="IMG_0954.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0954.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0955.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0955.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0956.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0956.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0958.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0958.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0959.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0959.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0959.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0959.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0960.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0960.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0960.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0960.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0960.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0960.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0961.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0961.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
 
-		<!--<img src="Picture325.jpg" link="javascript:createLightbox('images/ss/lg/Picture325.jpg','Facility Tour 16');" caption="Scott's Auto Inc."/>-->
-		<img src="Picture327.jpg" link="javascript:createLightbox('images/ss/lg/Picture327.jpg','Facility Tour 12');" caption="Scott's Auto Inc."/>
-		
-		<!--<img src="Picture329.jpg" link="javascript:createLightbox('images/ss/lg/Picture329.jpg','Facility Tour 18');" caption="Scott's Auto Inc."/>-->
-		<img src="Picture332.jpg" link="javascript:createLightbox('images/ss/lg/Picture332.jpg','Facility Tour 13');" caption="SScott's Auto Inc."/>
-		
-		<img src="Picture333.jpg" link="javascript:createLightbox('images/ss/lg/Picture333.jpg','Facility Tour 14');" caption="Scott's Auto Inc."/>
-		
+		<img src="IMG_0962.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0962.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0963.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0963.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0964.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0964.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0965.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0965.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
+		<img src="IMG_0967.jpg" link="javascript:createLightbox('images/ss/lg/IMG_0967.jpg','Scott's Auto Inc.');" caption="Scott's Auto Inc."/>
 
+IMG_0965.jpg
     </album>
 </gallery>

@@ -86,7 +86,7 @@ body {
 }
 
 .oneColFixCtrHdr #sidebarservices {
-	background-image:url(../images/Lift02.jpg);
+	/*background-image:url(../images/Lift02.jpg);*/
 	background-repeat: no-repeat;
 	margin: 0 20px 0 0;
 	padding-top: 0px;
@@ -95,9 +95,11 @@ body {
 	padding-left: 0px;
 	font-size: 0.8em;
 	float: right;
+	width: 340px;
 }
-
-
+.oneColFixCtrHdr #mainContent.services {
+    width: 360px;
+}
 
 .oneColFixCtrHdr #footer {
 	margin: 0px; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
